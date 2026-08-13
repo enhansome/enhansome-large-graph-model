@@ -295,7 +295,7 @@
             "last_commit": "2023-07-14T08:54:26Z",
             "owner": "ChnQ",
             "repo": "LLM4Mol",
-            "stars": 39
+            "stars": 38
           }
         },
         {
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:25:14.817Z",
+    "last_updated": "2026-08-13T22:53:07.926Z",
     "original_repository": "THUMNLab/awesome-large-graph-model",
     "original_repository_sha": "743082e3d2c443721d6e1a54c7abe40a5b88f6bc",
     "enhanced_repository": "enhansome/enhansome-large-graph-model",

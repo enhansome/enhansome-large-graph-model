@@ -114,7 +114,7 @@ We will try our best to make this paper list updated. If you notice some related
 #### Molecules
 
 * \[NeurIPS 2023] GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [\[paper\]](https://openreview.net/pdf?id=Tt6DrRCgJV) [\[code\]](https://github.com/zhao-ht/GIMLET) ⭐ 66 | 🐛 3 | 🌐 Python | 📅 2024-02-22
-* \[arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [\[paper\]](https://arxiv.org/pdf/2307.07443) [\[code\]](https://github.com/ChnQ/LLM4Mol) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2023-07-14
+* \[arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [\[paper\]](https://arxiv.org/pdf/2307.07443) [\[code\]](https://github.com/ChnQ/LLM4Mol) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2023-07-14
 * \[arXiv 2023.09] DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs [\[paper\]](https://arxiv.org/pdf/2309.03907) [\[code\]](https://github.com/UCSD-AI4H/drugchat)
 * \[arXiv 2023.08] GIT-Mol A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [\[paper\]](https://arxiv.org/pdf/2308.069)
 
