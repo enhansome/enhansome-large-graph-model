@@ -138,7 +138,7 @@ We will try our best to make this paper list updated. If you notice some related
 #### Graph of Thoughts
 
 * \[arXiv 2023.08] MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [\[paper\]](https://arxiv.org/pdf/2308.09729)
-* \[arXiv 2023.08] Graph of Thoughts: Solving Elaborate Problems with Large Language Models [\[paper\]](https://arxiv.org/pdf/2308.09687)  [\[code\]](https://github.com/spcl/graph-of-thoughts) ⭐ 2,831 | 🐛 7 | 🌐 Python | 📅 2026-03-24
+* \[arXiv 2023.08] Graph of Thoughts: Solving Elaborate Problems with Large Language Models [\[paper\]](https://arxiv.org/pdf/2308.09687)  [\[code\]](https://github.com/spcl/graph-of-thoughts) ⭐ 2,832 | 🐛 7 | 🌐 Python | 📅 2026-03-24
 * \[arXiv 2023.08] Enhancing Reasoning Capabilities of Large Language Models: A Graph-Based Verification Approach [\[paper\]](https://arxiv.org/pdf/2308.09267)
 * \[arXiv 2023.08] Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought [\[paper\]](https://arxiv.org/pdf/2308.08614)
 * \[arXiv 2023.08] Thinking Like an Expert: Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals [\[paper\]](https://arxiv.org/pdf/2308.06207)
@@ -148,7 +148,7 @@ We will try our best to make this paper list updated. If you notice some related
 #### Graph as Tools
 
 * \[arXiv 2023.05] StructGPT: A General Framework for Large Language Model to Reason over Structured Data [\[paper\]](https://arxiv.org/pdf/2305.09645)  [\[code\]](https://github.com/RUCAIBox/StructGPT) ⭐ 416 | 🐛 0 | 🌐 Python | 📅 2023-11-28
-* \[arXiv 2023.04] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [\[paper\]](https://arxiv.org/pdf/2304.11116)  [\[code\]](https://github.com/jwzhanggy/Graph_Toolformer) ⭐ 250 | 🐛 1 | 🌐 Python | 📅 2023-09-04
+* \[arXiv 2023.04] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [\[paper\]](https://arxiv.org/pdf/2304.11116)  [\[code\]](https://github.com/jwzhanggy/Graph_Toolformer) ⭐ 249 | 🐛 1 | 🌐 Python | 📅 2023-09-04
 
 ## Cite
 
@@ -165,4 +165,4 @@ Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
