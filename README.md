@@ -47,7 +47,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 * \[arXiv 2023.07] Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [\[paper\]](https://arxiv.org/pdf/2307.03393) [\[code\]](https://github.com/CurryTang/Graph-LLM) ⚠️ Archived
 * \[arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [\[paper\]](https://arxiv.org/pdf/2305.19523) [\[code\]](https://github.com/XiaoxinHe/TAPE) ⭐ 270 | 🐛 4 | 🌐 Python | 📅 2025-04-14
-* \[arXiv 2023.10] One for All Towards Training One Graph Model for All Classification Tasks [\[paper\]](https://arxiv.org/pdf/2310.00149) [\[code\]](https://github.com/LechengKong/OneForAll) ⭐ 253 | 🐛 2 | 🌐 Python | 📅 2024-05-18
+* \[arXiv 2023.10] One for All Towards Training One Graph Model for All Classification Tasks [\[paper\]](https://arxiv.org/pdf/2310.00149) [\[code\]](https://github.com/LechengKong/OneForAll) ⭐ 254 | 🐛 2 | 🌐 Python | 📅 2024-05-18
 * \[NeurIPS 2023] Can Language Models Solve Graph Problems in Natural Language? [\[paper\]](https://arxiv.org/pdf/2305.10037) [\[code\]](https://github.com/Arthur-Heng/NLGraph) ⭐ 148 | 🐛 0 | 🌐 Python | 📅 2024-08-20
 * \[arXiv 2023.10] GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [\[paper\]](https://arxiv.org/pdf/2310.05845) [\[code\]](https://github.com/mistyreed63849/Graph-LLM) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2026-01-29
 * \[arXiv 2023.10] Label-free Node Classification on Graphs with Large Language Models (LLMS) [\[paper\]](https://arxiv.org/pdf/2310.04668) [\[code\]](https://github.com/CurryTang/LLMGNN) ⚠️ Archived
@@ -80,7 +80,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### 2023
 
-* \[KDD 2023] All in One: Multi-Task Prompting for Graph Neural Networks [\[paper\]](https://arxiv.org/pdf/2307.01504) [\[code\]](https://github.com/sheldonresearch/ProG) ⭐ 586 | 🐛 0 | 🌐 Python | 📅 2026-06-02
+* \[KDD 2023] All in One: Multi-Task Prompting for Graph Neural Networks [\[paper\]](https://arxiv.org/pdf/2307.01504) [\[code\]](https://github.com/sheldonresearch/ProG) ⭐ 588 | 🐛 0 | 🌐 Python | 📅 2026-06-02
 * \[WWW 2023] GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [\[paper\]](https://arxiv.org/pdf/2302.08043) [\[code\]](https://github.com/Starlien95/GraphPrompt) ⭐ 169 | 🐛 3 | 🌐 Python | 📅 2024-10-25
 * \[NeurIPS 2023] PRODIGY: Enabling In-context Learning Over Graphs [\[paper\]](https://arxiv.org/pdf/2305.12600.pdf) [\[code\]](https://github.com/snap-stanford/prodigy) ⭐ 107 | 🐛 1 | 🌐 Python | 📅 2023-07-12
 * \[WWW 2023] Structure Pre-training and Prompt Tuning for Knowledge Graph Transfer [\[paper\]](https://arxiv.org/pdf/2303.03922.pdf) [\[code\]](https://github.com/zjukg/KGTransformer) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2023-05-26
@@ -165,4 +165,4 @@ Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
