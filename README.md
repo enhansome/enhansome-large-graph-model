@@ -80,7 +80,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### 2023
 
-* \[KDD 2023] All in One: Multi-Task Prompting for Graph Neural Networks [\[paper\]](https://arxiv.org/pdf/2307.01504) [\[code\]](https://github.com/sheldonresearch/ProG) ⭐ 588 | 🐛 0 | 🌐 Python | 📅 2026-06-02
+* \[KDD 2023] All in One: Multi-Task Prompting for Graph Neural Networks [\[paper\]](https://arxiv.org/pdf/2307.01504) [\[code\]](https://github.com/sheldonresearch/ProG) ⭐ 589 | 🐛 0 | 🌐 Python | 📅 2026-06-02
 * \[WWW 2023] GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [\[paper\]](https://arxiv.org/pdf/2302.08043) [\[code\]](https://github.com/Starlien95/GraphPrompt) ⭐ 169 | 🐛 3 | 🌐 Python | 📅 2024-10-25
 * \[NeurIPS 2023] PRODIGY: Enabling In-context Learning Over Graphs [\[paper\]](https://arxiv.org/pdf/2305.12600.pdf) [\[code\]](https://github.com/snap-stanford/prodigy) ⭐ 107 | 🐛 1 | 🌐 Python | 📅 2023-07-12
 * \[WWW 2023] Structure Pre-training and Prompt Tuning for Knowledge Graph Transfer [\[paper\]](https://arxiv.org/pdf/2303.03922.pdf) [\[code\]](https://github.com/zjukg/KGTransformer) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2023-05-26
@@ -165,4 +165,4 @@ Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

@@ -205,7 +205,7 @@
                     "last_commit": "2026-06-02T02:16:54Z",
                     "owner": "sheldonresearch",
                     "repo": "ProG",
-                    "stars": 588
+                    "stars": 589
                   }
                 },
                 {
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:32:39.848Z",
+    "last_updated": "2026-08-22T22:30:05.508Z",
     "original_repository": "THUMNLab/awesome-large-graph-model",
     "original_repository_id": 682952759,
     "original_repository_sha": "743082e3d2c443721d6e1a54c7abe40a5b88f6bc",
