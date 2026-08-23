@@ -34,7 +34,7 @@
                     "last_commit": "2025-04-14T02:10:44Z",
                     "owner": "XiaoxinHe",
                     "repo": "TAPE",
-                    "stars": 270
+                    "stars": 271
                   }
                 },
                 {
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:30:05.508Z",
+    "last_updated": "2026-08-23T22:30:08.412Z",
     "original_repository": "THUMNLab/awesome-large-graph-model",
     "original_repository_id": 682952759,
     "original_repository_sha": "743082e3d2c443721d6e1a54c7abe40a5b88f6bc",

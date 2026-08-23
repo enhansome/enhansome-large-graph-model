@@ -46,7 +46,7 @@ We will try our best to make this paper list updated. If you notice some related
 #### 2023
 
 * \[arXiv 2023.07] Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [\[paper\]](https://arxiv.org/pdf/2307.03393) [\[code\]](https://github.com/CurryTang/Graph-LLM) ⚠️ Archived
-* \[arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [\[paper\]](https://arxiv.org/pdf/2305.19523) [\[code\]](https://github.com/XiaoxinHe/TAPE) ⭐ 270 | 🐛 4 | 🌐 Python | 📅 2025-04-14
+* \[arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [\[paper\]](https://arxiv.org/pdf/2305.19523) [\[code\]](https://github.com/XiaoxinHe/TAPE) ⭐ 271 | 🐛 4 | 🌐 Python | 📅 2025-04-14
 * \[arXiv 2023.10] One for All Towards Training One Graph Model for All Classification Tasks [\[paper\]](https://arxiv.org/pdf/2310.00149) [\[code\]](https://github.com/LechengKong/OneForAll) ⭐ 254 | 🐛 2 | 🌐 Python | 📅 2024-05-18
 * \[NeurIPS 2023] Can Language Models Solve Graph Problems in Natural Language? [\[paper\]](https://arxiv.org/pdf/2305.10037) [\[code\]](https://github.com/Arthur-Heng/NLGraph) ⭐ 148 | 🐛 0 | 🌐 Python | 📅 2024-08-20
 * \[arXiv 2023.10] GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [\[paper\]](https://arxiv.org/pdf/2310.05845) [\[code\]](https://github.com/mistyreed63849/Graph-LLM) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2026-01-29
@@ -165,4 +165,4 @@ Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
