@@ -363,7 +363,7 @@
                 "last_commit": "2026-03-24T17:26:16Z",
                 "owner": "spcl",
                 "repo": "graph-of-thoughts",
-                "stars": 2832
+                "stars": 2833
               }
             }
           ],
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:16.908Z",
+    "last_updated": "2026-08-24T22:34:58.903Z",
     "original_repository": "THUMNLab/awesome-large-graph-model",
     "original_repository_id": 682952759,
     "original_repository_sha": "743082e3d2c443721d6e1a54c7abe40a5b88f6bc",
