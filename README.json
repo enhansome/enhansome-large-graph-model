@@ -19,7 +19,7 @@
                     "last_commit": "2025-03-10T05:30:05Z",
                     "owner": "CurryTang",
                     "repo": "Graph-LLM",
-                    "stars": 317
+                    "stars": 316
                   }
                 },
                 {
@@ -298,7 +298,7 @@
                 "last_commit": "2024-02-22T08:00:29Z",
                 "owner": "zhao-ht",
                 "repo": "GIMLET",
-                "stars": 66
+                "stars": 67
               }
             },
             {
@@ -313,13 +313,35 @@
                 "last_commit": "2023-07-14T08:54:26Z",
                 "owner": "ChnQ",
                 "repo": "LLM4Mol",
-                "stars": 38
+                "stars": 39
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Molecules"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620808509,
+                "language": "Python",
+                "last_commit": "2023-06-28T22:28:29Z",
+                "owner": "algopapi",
+                "repo": "EvoPrompting_Reinforcement_learning",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neural Architecture Search"
         }
       ],
       "title": "Applications"
@@ -327,6 +349,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[arXiv 2023.08] Graph of Thoughts: Solving Elaborate Problems with Large Language Models [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 680173591,
+                "language": "Python",
+                "last_commit": "2026-03-24T17:26:16Z",
+                "owner": "spcl",
+                "repo": "graph-of-thoughts",
+                "stars": 2832
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph of Thoughts"
+        },
         {
           "children": [
             {
@@ -369,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:30:08.412Z",
+    "last_updated": "2026-08-24T14:29:16.908Z",
     "original_repository": "THUMNLab/awesome-large-graph-model",
     "original_repository_id": 682952759,
     "original_repository_sha": "743082e3d2c443721d6e1a54c7abe40a5b88f6bc",

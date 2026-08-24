@@ -113,17 +113,17 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### Molecules
 
-* \[NeurIPS 2023] GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [\[paper\]](https://openreview.net/pdf?id=Tt6DrRCgJV) [\[code\]](https://github.com/zhao-ht/GIMLET) ⭐ 66 | 🐛 3 | 🌐 Python | 📅 2024-02-22
-* \[arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [\[paper\]](https://arxiv.org/pdf/2307.07443) [\[code\]](https://github.com/ChnQ/LLM4Mol) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2023-07-14
+* \[NeurIPS 2023] GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [\[paper\]](https://openreview.net/pdf?id=Tt6DrRCgJV) [\[code\]](https://github.com/zhao-ht/GIMLET) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2024-02-22
+* \[arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [\[paper\]](https://arxiv.org/pdf/2307.07443) [\[code\]](https://github.com/ChnQ/LLM4Mol) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2023-07-14
 * \[arXiv 2023.09] DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs [\[paper\]](https://arxiv.org/pdf/2309.03907) [\[code\]](https://github.com/UCSD-AI4H/drugchat)
 * \[arXiv 2023.08] GIT-Mol A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [\[paper\]](https://arxiv.org/pdf/2308.069)
 
 #### Neural Architecture Search
 
+* \[arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [\[paper\]](https://arxiv.org/pdf/2302.14838) [\[code\]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2023-06-28
 * \[arXiv 2023.12] Heterogeneous Graph Neural Architecture Search with GPT-4 [\[paper\]](https://arxiv.org/pdf/2312.0868)
 * \[arXiv 2023.10] Graph Neural Architecture Search with GPT-4 [\[paper\]](https://arxiv.org/pdf/2310.01436)
 * \[arXiv 2023.09] Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [\[paper\]](https://arxiv.org/pdf/2309.04565)
-* \[arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [\[paper\]](https://arxiv.org/pdf/2302.14838) [\[code\]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2023-06-28
 
 #### Miscellaneous
 
@@ -137,8 +137,8 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### Graph of Thoughts
 
-* \[arXiv 2023.08] MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [\[paper\]](https://arxiv.org/pdf/2308.09729)
 * \[arXiv 2023.08] Graph of Thoughts: Solving Elaborate Problems with Large Language Models [\[paper\]](https://arxiv.org/pdf/2308.09687)  [\[code\]](https://github.com/spcl/graph-of-thoughts) ⭐ 2,832 | 🐛 7 | 🌐 Python | 📅 2026-03-24
+* \[arXiv 2023.08] MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [\[paper\]](https://arxiv.org/pdf/2308.09729)
 * \[arXiv 2023.08] Enhancing Reasoning Capabilities of Large Language Models: A Graph-Based Verification Approach [\[paper\]](https://arxiv.org/pdf/2308.09267)
 * \[arXiv 2023.08] Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought [\[paper\]](https://arxiv.org/pdf/2308.08614)
 * \[arXiv 2023.08] Thinking Like an Expert: Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals [\[paper\]](https://arxiv.org/pdf/2308.06207)
@@ -165,4 +165,4 @@ Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
