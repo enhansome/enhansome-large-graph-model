@@ -235,7 +235,7 @@
                     "last_commit": "2023-07-12T23:16:37Z",
                     "owner": "snap-stanford",
                     "repo": "prodigy",
-                    "stars": 107
+                    "stars": 108
                   }
                 },
                 {
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:34:58.903Z",
+    "last_updated": "2026-08-25T06:22:34.212Z",
     "original_repository": "THUMNLab/awesome-large-graph-model",
     "original_repository_id": 682952759,
     "original_repository_sha": "743082e3d2c443721d6e1a54c7abe40a5b88f6bc",

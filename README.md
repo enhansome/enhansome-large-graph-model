@@ -82,7 +82,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 * \[KDD 2023] All in One: Multi-Task Prompting for Graph Neural Networks [\[paper\]](https://arxiv.org/pdf/2307.01504) [\[code\]](https://github.com/sheldonresearch/ProG) ⭐ 589 | 🐛 0 | 🌐 Python | 📅 2026-06-02
 * \[WWW 2023] GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [\[paper\]](https://arxiv.org/pdf/2302.08043) [\[code\]](https://github.com/Starlien95/GraphPrompt) ⭐ 169 | 🐛 3 | 🌐 Python | 📅 2024-10-25
-* \[NeurIPS 2023] PRODIGY: Enabling In-context Learning Over Graphs [\[paper\]](https://arxiv.org/pdf/2305.12600.pdf) [\[code\]](https://github.com/snap-stanford/prodigy) ⭐ 107 | 🐛 1 | 🌐 Python | 📅 2023-07-12
+* \[NeurIPS 2023] PRODIGY: Enabling In-context Learning Over Graphs [\[paper\]](https://arxiv.org/pdf/2305.12600.pdf) [\[code\]](https://github.com/snap-stanford/prodigy) ⭐ 108 | 🐛 1 | 🌐 Python | 📅 2023-07-12
 * \[WWW 2023] Structure Pre-training and Prompt Tuning for Knowledge Graph Transfer [\[paper\]](https://arxiv.org/pdf/2303.03922.pdf) [\[code\]](https://github.com/zjukg/KGTransformer) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2023-05-26
 * \[arXiv 2023.11] Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs [\[paper\]](https://arxiv.org/pdf/2311.15317.pdf) [\[code\]](https://github.com/gmcmt/graph_prompt_extension) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2023-12-12
 * \[NeurIPS 2023] Universal Prompt Tuning for Graph Neural Networks [\[paper\]](https://arxiv.org/pdf/2209.15240.pdf)
@@ -165,4 +165,4 @@ Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
