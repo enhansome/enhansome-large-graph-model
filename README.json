@@ -413,9 +413,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:03:11.023Z",
-    "original_repository": "THUMNLab/awesome-large-graph-model",
-    "original_repository_id": 682952759,
+    "last_updated": "2026-08-27T11:48:11.573Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 682952759,
+      "language": null,
+      "last_commit": "2024-03-24T15:38:37Z",
+      "owner": "THUMNLab",
+      "repo": "awesome-large-graph-model",
+      "stars": 291
+    },
     "original_repository_sha": "743082e3d2c443721d6e1a54c7abe40a5b88f6bc",
     "enhanced_repository": "enhansome/enhansome-large-graph-model",
     "enhanced_repository_description": null,
