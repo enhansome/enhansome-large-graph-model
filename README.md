@@ -148,7 +148,7 @@ We will try our best to make this paper list updated. If you notice some related
 #### Graph as Tools
 
 * \[arXiv 2023.05] StructGPT: A General Framework for Large Language Model to Reason over Structured Data [\[paper\]](https://arxiv.org/pdf/2305.09645)  [\[code\]](https://github.com/RUCAIBox/StructGPT) ⭐ 416 | 🐛 0 | 🌐 Python | 📅 2023-11-28
-* \[arXiv 2023.04] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [\[paper\]](https://arxiv.org/pdf/2304.11116)  [\[code\]](https://github.com/jwzhanggy/Graph_Toolformer) ⭐ 249 | 🐛 1 | 🌐 Python | 📅 2023-09-04
+* \[arXiv 2023.04] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [\[paper\]](https://arxiv.org/pdf/2304.11116)  [\[code\]](https://github.com/jwzhanggy/Graph_Toolformer) ⭐ 248 | 🐛 1 | 🌐 Python | 📅 2023-09-04
 
 ## Cite
 
@@ -165,4 +165,4 @@ Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
