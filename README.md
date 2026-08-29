@@ -47,7 +47,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 * \[arXiv 2023.07] Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [\[paper\]](https://arxiv.org/pdf/2307.03393) [\[code\]](https://github.com/CurryTang/Graph-LLM) ⚠️ Archived
 * \[arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [\[paper\]](https://arxiv.org/pdf/2305.19523) [\[code\]](https://github.com/XiaoxinHe/TAPE) ⭐ 271 | 🐛 4 | 🌐 Python | 📅 2025-04-14
-* \[arXiv 2023.10] One for All Towards Training One Graph Model for All Classification Tasks [\[paper\]](https://arxiv.org/pdf/2310.00149) [\[code\]](https://github.com/LechengKong/OneForAll) ⭐ 254 | 🐛 2 | 🌐 Python | 📅 2024-05-18
+* \[arXiv 2023.10] One for All Towards Training One Graph Model for All Classification Tasks [\[paper\]](https://arxiv.org/pdf/2310.00149) [\[code\]](https://github.com/LechengKong/OneForAll) ⭐ 255 | 🐛 2 | 🌐 Python | 📅 2024-05-18
 * \[NeurIPS 2023] Can Language Models Solve Graph Problems in Natural Language? [\[paper\]](https://arxiv.org/pdf/2305.10037) [\[code\]](https://github.com/Arthur-Heng/NLGraph) ⭐ 148 | 🐛 0 | 🌐 Python | 📅 2024-08-20
 * \[arXiv 2023.10] GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [\[paper\]](https://arxiv.org/pdf/2310.05845) [\[code\]](https://github.com/mistyreed63849/Graph-LLM) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2026-01-29
 * \[arXiv 2023.10] Label-free Node Classification on Graphs with Large Language Models (LLMS) [\[paper\]](https://arxiv.org/pdf/2310.04668) [\[code\]](https://github.com/CurryTang/LLMGNN) ⚠️ Archived
@@ -120,7 +120,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### Neural Architecture Search
 
-* \[arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [\[paper\]](https://arxiv.org/pdf/2302.14838) [\[code\]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2023-06-28
+* \[arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [\[paper\]](https://arxiv.org/pdf/2302.14838) [\[code\]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2023-06-28
 * \[arXiv 2023.12] Heterogeneous Graph Neural Architecture Search with GPT-4 [\[paper\]](https://arxiv.org/pdf/2312.0868)
 * \[arXiv 2023.10] Graph Neural Architecture Search with GPT-4 [\[paper\]](https://arxiv.org/pdf/2310.01436)
 * \[arXiv 2023.09] Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [\[paper\]](https://arxiv.org/pdf/2309.04565)
@@ -165,4 +165,4 @@ Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

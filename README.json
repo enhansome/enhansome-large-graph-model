@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs",
+                    "homepage": null,
                     "id": 664886106,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-10T05:30:05Z",
+                    "open_issues": 3,
                     "owner": "CurryTang",
                     "repo": "Graph-LLM",
-                    "stars": 316
+                    "stars": 316,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of ICLR 2024 paper \"Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning\"",
+                    "homepage": "https://arxiv.org/abs/2305.19523",
                     "id": 577555357,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-04-14T02:10:44Z",
+                    "open_issues": 4,
                     "owner": "XiaoxinHe",
                     "repo": "TAPE",
-                    "stars": 271
+                    "stars": 271,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -46,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fundational graph learning framework that solves cross-domain/cross-task classification problems using one model.",
+                    "homepage": null,
                     "id": 698359032,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-18T20:35:26Z",
+                    "open_issues": 2,
                     "owner": "LechengKong",
                     "repo": "OneForAll",
-                    "stars": 254
+                    "stars": 255,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -62,12 +77,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repository of \"Can Language Models Solve Graph Problems in Natural Language?\". NeurIPS 2023 (Spotlight)",
+                    "homepage": null,
                     "id": 641814438,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-08-20T13:39:16Z",
+                    "open_issues": 0,
                     "owner": "Arthur-Heng",
                     "repo": "NLGraph",
-                    "stars": 148
+                    "stars": 148,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -78,12 +98,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GraphLLM: Boosting Graph Reasoning Ability of Large Language Model (IEEE Transactions on Big Data)",
+                    "homepage": "https://arxiv.org/abs/2310.05845",
                     "id": 702593387,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-29T00:17:59Z",
+                    "open_issues": 0,
                     "owner": "mistyreed63849",
                     "repo": "Graph-LLM",
-                    "stars": 130
+                    "stars": 130,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -94,12 +119,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Label-free Node Classification on Graphs with Large Language Models (LLMS)",
+                    "homepage": null,
                     "id": 703733564,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-11-24T06:49:21Z",
+                    "open_issues": 4,
                     "owner": "CurryTang",
                     "repo": "LLMGNN",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -110,12 +140,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Repo of SimTeG",
+                    "homepage": null,
                     "id": 547123854,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-29T03:03:55Z",
+                    "open_issues": 2,
                     "owner": "vermouthdky",
                     "repo": "SimTeG",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -126,12 +161,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 697597184,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-03T00:20:02Z",
+                    "open_issues": 0,
                     "owner": "TRAIS-Lab",
                     "repo": "LLM-Structured-Data",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -142,12 +182,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 678560987,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-08-24T19:47:25Z",
+                    "open_issues": 0,
                     "owner": "Ayame1006",
                     "repo": "LLMtoGraph",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 }
@@ -172,12 +217,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 726405478,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-12-03T09:39:27Z",
+                    "open_issues": 0,
                     "owner": "chenzihaoww",
                     "repo": "GPL-GNN",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -188,12 +238,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 732863752,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-23T06:24:53Z",
+                    "open_issues": 0,
                     "owner": "zjunet",
                     "repo": "Bridge-Tune",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 }
@@ -211,12 +266,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Unified Python Library for Graph Prompting",
+                    "homepage": null,
                     "id": 665853088,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-02T02:16:54Z",
+                    "open_issues": 0,
                     "owner": "sheldonresearch",
                     "repo": "ProG",
-                    "stars": 589
+                    "stars": 589,
+                    "topics": [
+                      "graph-neural-networks",
+                      "graph-prompt",
+                      "prompt-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -227,12 +291,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks",
+                    "homepage": null,
                     "id": 603656795,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-10-25T05:25:07Z",
+                    "open_issues": 3,
                     "owner": "Starlien95",
                     "repo": "GraphPrompt",
-                    "stars": 169
+                    "stars": 169,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -243,12 +312,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 656008232,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-12T23:16:37Z",
+                    "open_issues": 1,
                     "owner": "snap-stanford",
                     "repo": "prodigy",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -259,12 +333,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[Paper][WWW2023] Structure Pre-training and Prompt Tuning for Knowledge Graph Transfer",
+                    "homepage": "https://arxiv.org/pdf/2303.03922.pdf",
                     "id": 593243801,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-05-26T11:46:23Z",
+                    "open_issues": 2,
                     "owner": "zjukg",
                     "repo": "KGTransformer",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 },
@@ -275,12 +354,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 723573188,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-12-12T03:43:13Z",
+                    "open_issues": 1,
                     "owner": "gmcmt",
                     "repo": "graph_prompt_extension",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
                 }
@@ -309,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code for GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning",
+                "homepage": null,
                 "id": 645850300,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-22T08:00:29Z",
+                "open_issues": 3,
                 "owner": "zhao-ht",
                 "repo": "GIMLET",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:55.355Z"
             },
@@ -325,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code implementation for paper \"Can Large Language Models Empower Molecular Property Prediction?\"",
+                "homepage": null,
                 "id": 666329323,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-14T08:54:26Z",
+                "open_issues": 0,
                 "owner": "ChnQ",
                 "repo": "LLM4Mol",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:55.355Z"
             }
@@ -348,12 +442,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 620808509,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-28T22:28:29Z",
+                "open_issues": 0,
                 "owner": "algopapi",
                 "repo": "EvoPrompting_Reinforcement_learning",
-                "stars": 25
+                "stars": 24,
+                "topics": [
+                  "ai",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T06:03:55.355Z"
             }
@@ -377,12 +479,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of \"Graph of Thoughts: Solving Elaborate Problems with Large Language Models\"",
+                "homepage": "https://arxiv.org/pdf/2308.09687.pdf",
                 "id": 680173591,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-24T17:26:16Z",
+                "open_issues": 7,
                 "owner": "spcl",
                 "repo": "graph-of-thoughts",
-                "stars": 2833
+                "stars": 2833,
+                "topics": [
+                  "graph-of-thoughts",
+                  "graph-structures",
+                  "graphs",
+                  "large-language-models",
+                  "llm",
+                  "prompt-engineering",
+                  "prompting"
+                ]
               },
               "first_seen": "2026-08-28T06:03:55.355Z"
             }
@@ -400,12 +515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code and data for \"StructGPT: A general framework for Large Language Model to Reason on Structured Data\"",
+                "homepage": null,
                 "id": 641555976,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-28T13:19:07Z",
+                "open_issues": 0,
                 "owner": "RUCAIBox",
                 "repo": "StructGPT",
-                "stars": 416
+                "stars": 416,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:55.355Z"
             },
@@ -416,12 +536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 625763962,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-04T10:06:18Z",
+                "open_issues": 1,
                 "owner": "jwzhanggy",
                 "repo": "Graph_Toolformer",
-                "stars": 248
+                "stars": 248,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:03:55.355Z"
             }
@@ -435,15 +560,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:03:55.355Z",
+    "last_updated": "2026-08-29T03:38:01.221Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Papers about large graph models.",
+      "homepage": null,
       "id": 682952759,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-03-24T15:38:37Z",
+      "open_issues": 2,
       "owner": "THUMNLab",
       "repo": "awesome-large-graph-model",
-      "stars": 291
+      "stars": 291,
+      "topics": [
+        "awesome-list",
+        "graph-foundation-model",
+        "graph-neural-networks",
+        "large-language-models"
+      ]
     },
     "original_repository_sha": "743082e3d2c443721d6e1a54c7abe40a5b88f6bc",
     "enhanced_repository": "enhansome/enhansome-large-graph-model",
