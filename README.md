@@ -137,7 +137,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### Graph of Thoughts
 
-* \[arXiv 2023.08] Graph of Thoughts: Solving Elaborate Problems with Large Language Models [\[paper\]](https://arxiv.org/pdf/2308.09687)  [\[code\]](https://github.com/spcl/graph-of-thoughts) ⭐ 2,834 | 🐛 7 | 🌐 Python | 📅 2026-03-24
+* \[arXiv 2023.08] Graph of Thoughts: Solving Elaborate Problems with Large Language Models [\[paper\]](https://arxiv.org/pdf/2308.09687)  [\[code\]](https://github.com/spcl/graph-of-thoughts) ⭐ 2,835 | 🐛 7 | 🌐 Python | 📅 2026-03-24
 * \[arXiv 2023.08] MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [\[paper\]](https://arxiv.org/pdf/2308.09729)
 * \[arXiv 2023.08] Enhancing Reasoning Capabilities of Large Language Models: A Graph-Based Verification Approach [\[paper\]](https://arxiv.org/pdf/2308.09267)
 * \[arXiv 2023.08] Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought [\[paper\]](https://arxiv.org/pdf/2308.08614)
@@ -165,4 +165,4 @@ Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
