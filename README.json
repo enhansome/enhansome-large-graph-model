@@ -342,7 +342,7 @@
                     "open_issues": 2,
                     "owner": "zjukg",
                     "repo": "KGTransformer",
-                    "stars": 50,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -488,7 +488,7 @@
                 "open_issues": 7,
                 "owner": "spcl",
                 "repo": "graph-of-thoughts",
-                "stars": 2835,
+                "stars": 2838,
                 "topics": [
                   "graph-of-thoughts",
                   "graph-structures",
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:45:29.494Z",
+    "last_updated": "2026-09-06T23:44:24.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
