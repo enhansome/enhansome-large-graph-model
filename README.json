@@ -275,7 +275,7 @@
                     "open_issues": 0,
                     "owner": "sheldonresearch",
                     "repo": "ProG",
-                    "stars": 589,
+                    "stars": 588,
                     "topics": [
                       "graph-neural-networks",
                       "graph-prompt",
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:03:15.692Z",
+    "last_updated": "2026-09-19T00:07:55.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
