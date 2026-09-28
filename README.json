@@ -170,7 +170,7 @@
                     "open_issues": 0,
                     "owner": "TRAIS-Lab",
                     "repo": "LLM-Structured-Data",
-                    "stars": 31,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:25:34.694Z",
+    "last_updated": "2026-09-28T00:30:00.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
