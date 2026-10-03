@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2023.07] Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [paper]",
-                  "description": "[code]",
+                  "description": "CurryTang/Graph-LLM",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -31,7 +31,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [paper]",
-                  "description": "[code]",
+                  "description": "XiaoxinHe/TAPE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -52,7 +52,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2023.10] One for All Towards Training One Graph Model for All Classification Tasks [paper]",
-                  "description": "[code]",
+                  "description": "LechengKong/OneForAll",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -73,7 +73,7 @@
                 {
                   "node_type": "item",
                   "title": "[NeurIPS 2023] Can Language Models Solve Graph Problems in Natural Language? [paper]",
-                  "description": "[code]",
+                  "description": "Arthur-Heng/NLGraph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -94,7 +94,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2023.10] GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [paper]",
-                  "description": "[code]",
+                  "description": "mistyreed63849/Graph-LLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -115,7 +115,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2023.10] Label-free Node Classification on Graphs with Large Language Models (LLMS) [paper]",
-                  "description": "[code]",
+                  "description": "CurryTang/LLMGNN",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -136,7 +136,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2023.08] SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [paper]",
-                  "description": "[code]",
+                  "description": "vermouthdky/SimTeG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -157,7 +157,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2023.09] Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [paper]",
-                  "description": "[code]",
+                  "description": "TRAIS-Lab/LLM-Structured-Data",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -178,7 +178,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2023.08] Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis [paper]",
-                  "description": "[code]",
+                  "description": "Ayame1006/LLMtoGraph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -213,7 +213,7 @@
                 {
                   "node_type": "item",
                   "title": "[KBS 2024] GPL-GNN: Graph prompt learning for graph neural network [paper]",
-                  "description": "[code]",
+                  "description": "chenzihaoww/GPL-GNN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -234,7 +234,7 @@
                 {
                   "node_type": "item",
                   "title": "[AAAI 2024] Measuring task similarity and its implication in fine-tuning graph neural networks [paper]",
-                  "description": "[code]",
+                  "description": "zjunet/Bridge-Tune",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -262,7 +262,7 @@
                 {
                   "node_type": "item",
                   "title": "[KDD 2023] All in One: Multi-Task Prompting for Graph Neural Networks [paper]",
-                  "description": "[code]",
+                  "description": "sheldonresearch/ProG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -287,7 +287,7 @@
                 {
                   "node_type": "item",
                   "title": "[WWW 2023] GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [paper]",
-                  "description": "[code]",
+                  "description": "Starlien95/GraphPrompt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -308,7 +308,7 @@
                 {
                   "node_type": "item",
                   "title": "[NeurIPS 2023] PRODIGY: Enabling In-context Learning Over Graphs [paper]",
-                  "description": "[code]",
+                  "description": "snap-stanford/prodigy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -329,7 +329,7 @@
                 {
                   "node_type": "item",
                   "title": "[WWW 2023] Structure Pre-training and Prompt Tuning for Knowledge Graph Transfer [paper]",
-                  "description": "[code]",
+                  "description": "zjukg/KGTransformer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -350,7 +350,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2023.11] Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs [paper]",
-                  "description": "[code]",
+                  "description": "gmcmt/graph_prompt_extension",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -389,7 +389,7 @@
             {
               "node_type": "item",
               "title": "[NeurIPS 2023] GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [paper]",
-              "description": "[code]",
+              "description": "zhao-ht/GIMLET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -410,7 +410,7 @@
             {
               "node_type": "item",
               "title": "[arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [paper]",
-              "description": "[code]",
+              "description": "ChnQ/LLM4Mol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -438,7 +438,7 @@
             {
               "node_type": "item",
               "title": "[arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [paper]",
-              "description": "[code]",
+              "description": "algopapi/EvoPrompting_Reinforcement_learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -475,7 +475,7 @@
             {
               "node_type": "item",
               "title": "[arXiv 2023.08] Graph of Thoughts: Solving Elaborate Problems with Large Language Models [paper]",
-              "description": "[code]",
+              "description": "spcl/graph-of-thoughts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -511,7 +511,7 @@
             {
               "node_type": "item",
               "title": "[arXiv 2023.05] StructGPT: A General Framework for Large Language Model to Reason over Structured Data [paper]",
-              "description": "[code]",
+              "description": "RUCAIBox/StructGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -532,7 +532,7 @@
             {
               "node_type": "item",
               "title": "[arXiv 2023.04] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [paper]",
-              "description": "[code]",
+              "description": "jwzhanggy/Graph_Toolformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:02:29.919Z",
+    "last_updated": "2026-10-03T04:54:47.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
