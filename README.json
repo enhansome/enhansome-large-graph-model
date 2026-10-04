@@ -488,7 +488,7 @@
                 "open_issues": 7,
                 "owner": "spcl",
                 "repo": "graph-of-thoughts",
-                "stars": 2842,
+                "stars": 2841,
                 "topics": [
                   "graph-of-thoughts",
                   "graph-structures",
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:54:47.409Z",
+    "last_updated": "2026-10-04T00:28:10.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
