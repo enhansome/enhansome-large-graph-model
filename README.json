@@ -149,7 +149,7 @@
                     "open_issues": 2,
                     "owner": "vermouthdky",
                     "repo": "SimTeG",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:10:21.682Z",
+    "last_updated": "2026-10-13T02:57:30.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
