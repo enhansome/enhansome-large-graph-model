@@ -524,7 +524,7 @@
                 "open_issues": 0,
                 "owner": "RUCAIBox",
                 "repo": "StructGPT",
-                "stars": 415,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:55.355Z"
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:25:31.831Z",
+    "last_updated": "2026-10-16T00:14:01.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
