@@ -65,7 +65,7 @@
                     "open_issues": 2,
                     "owner": "LechengKong",
                     "repo": "OneForAll",
-                    "stars": 257,
+                    "stars": 258,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:16:47.652Z",
+    "last_updated": "2026-10-17T23:55:49.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
