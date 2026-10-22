@@ -44,7 +44,7 @@
                     "open_issues": 4,
                     "owner": "XiaoxinHe",
                     "repo": "TAPE",
-                    "stars": 272,
+                    "stars": 271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -524,7 +524,7 @@
                 "open_issues": 0,
                 "owner": "RUCAIBox",
                 "repo": "StructGPT",
-                "stars": 414,
+                "stars": 415,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:03:55.355Z"
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:30:41.284Z",
+    "last_updated": "2026-10-22T00:34:15.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
