@@ -44,7 +44,7 @@
                     "open_issues": 4,
                     "owner": "XiaoxinHe",
                     "repo": "TAPE",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -488,7 +488,7 @@
                 "open_issues": 7,
                 "owner": "spcl",
                 "repo": "graph-of-thoughts",
-                "stars": 2844,
+                "stars": 2845,
                 "topics": [
                   "graph-of-thoughts",
                   "graph-structures",
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:34:15.298Z",
+    "last_updated": "2026-10-23T00:31:54.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
