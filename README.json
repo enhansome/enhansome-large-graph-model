@@ -65,7 +65,7 @@
                     "open_issues": 2,
                     "owner": "LechengKong",
                     "repo": "OneForAll",
-                    "stars": 258,
+                    "stars": 259,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -488,7 +488,7 @@
                 "open_issues": 7,
                 "owner": "spcl",
                 "repo": "graph-of-thoughts",
-                "stars": 2845,
+                "stars": 2846,
                 "topics": [
                   "graph-of-thoughts",
                   "graph-structures",
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:31:54.595Z",
+    "last_updated": "2026-10-24T00:27:01.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
