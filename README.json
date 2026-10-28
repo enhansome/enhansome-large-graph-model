@@ -44,7 +44,7 @@
                     "open_issues": 4,
                     "owner": "XiaoxinHe",
                     "repo": "TAPE",
-                    "stars": 272,
+                    "stars": 271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -275,7 +275,7 @@
                     "open_issues": 0,
                     "owner": "sheldonresearch",
                     "repo": "ProG",
-                    "stars": 587,
+                    "stars": 586,
                     "topics": [
                       "graph-neural-networks",
                       "graph-prompt",
@@ -488,7 +488,7 @@
                 "open_issues": 7,
                 "owner": "spcl",
                 "repo": "graph-of-thoughts",
-                "stars": 2846,
+                "stars": 2847,
                 "topics": [
                   "graph-of-thoughts",
                   "graph-structures",
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:23:01.076Z",
+    "last_updated": "2026-10-28T01:08:06.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
