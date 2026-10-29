@@ -44,7 +44,7 @@
                     "open_issues": 4,
                     "owner": "XiaoxinHe",
                     "repo": "TAPE",
-                    "stars": 271,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T01:08:06.092Z",
+    "last_updated": "2026-10-29T01:41:56.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
