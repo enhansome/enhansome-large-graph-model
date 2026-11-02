@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:56:22.219Z",
+    "last_updated": "2026-11-02T01:25:56.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
@@ -572,7 +572,7 @@
       "open_issues": 2,
       "owner": "THUMNLab",
       "repo": "awesome-large-graph-model",
-      "stars": 291,
+      "stars": 292,
       "topics": [
         "awesome-list",
         "graph-foundation-model",
