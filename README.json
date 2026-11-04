@@ -86,7 +86,7 @@
                     "open_issues": 0,
                     "owner": "Arthur-Heng",
                     "repo": "NLGraph",
-                    "stars": 148,
+                    "stars": 149,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:25:08.832Z",
+    "last_updated": "2026-11-04T02:06:07.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
