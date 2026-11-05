@@ -107,7 +107,7 @@
                     "open_issues": 0,
                     "owner": "mistyreed63849",
                     "repo": "Graph-LLM",
-                    "stars": 130,
+                    "stars": 129,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:03:55.355Z"
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:06:07.656Z",
+    "last_updated": "2026-11-05T02:10:53.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",

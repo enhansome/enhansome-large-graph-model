@@ -49,7 +49,7 @@ We will try our best to make this paper list updated. If you notice some related
 * \[arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [\[paper\]](https://arxiv.org/pdf/2305.19523) [\[code\]](https://github.com/XiaoxinHe/TAPE) ⭐ 270 | 🐛 4 | 🌐 Python | 📅 2025-04-14
 * \[arXiv 2023.10] One for All Towards Training One Graph Model for All Classification Tasks [\[paper\]](https://arxiv.org/pdf/2310.00149) [\[code\]](https://github.com/LechengKong/OneForAll) ⭐ 259 | 🐛 2 | 🌐 Python | 📅 2024-05-18
 * \[NeurIPS 2023] Can Language Models Solve Graph Problems in Natural Language? [\[paper\]](https://arxiv.org/pdf/2305.10037) [\[code\]](https://github.com/Arthur-Heng/NLGraph) ⭐ 149 | 🐛 0 | 🌐 Python | 📅 2024-08-20
-* \[arXiv 2023.10] GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [\[paper\]](https://arxiv.org/pdf/2310.05845) [\[code\]](https://github.com/mistyreed63849/Graph-LLM) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2026-01-29
+* \[arXiv 2023.10] GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [\[paper\]](https://arxiv.org/pdf/2310.05845) [\[code\]](https://github.com/mistyreed63849/Graph-LLM) ⭐ 129 | 🐛 0 | 🌐 Python | 📅 2026-01-29
 * \[arXiv 2023.10] Label-free Node Classification on Graphs with Large Language Models (LLMS) [\[paper\]](https://arxiv.org/pdf/2310.04668) [\[code\]](https://github.com/CurryTang/LLMGNN) ⚠️ Archived
 * \[arXiv 2023.08] SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [\[paper\]](https://arxiv.org/pdf/2308.02565) [\[code\]](https://github.com/vermouthdky/SimTeG) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2024-03-29
 * \[arXiv 2023.09] Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [\[paper\]](https://arxiv.org/pdf/2309.16595) [\[code\]](https://github.com/TRAIS-Lab/LLM-Structured-Data) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2023-10-03
@@ -165,4 +165,4 @@ Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
