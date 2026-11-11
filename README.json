@@ -275,7 +275,7 @@
                     "open_issues": 0,
                     "owner": "sheldonresearch",
                     "repo": "ProG",
-                    "stars": 586,
+                    "stars": 587,
                     "topics": [
                       "graph-neural-networks",
                       "graph-prompt",
@@ -488,7 +488,7 @@
                 "open_issues": 7,
                 "owner": "spcl",
                 "repo": "graph-of-thoughts",
-                "stars": 2853,
+                "stars": 2852,
                 "topics": [
                   "graph-of-thoughts",
                   "graph-structures",
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:01:53.278Z",
+    "last_updated": "2026-11-11T01:49:32.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
