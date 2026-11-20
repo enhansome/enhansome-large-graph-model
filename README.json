@@ -275,7 +275,7 @@
                     "open_issues": 0,
                     "owner": "sheldonresearch",
                     "repo": "ProG",
-                    "stars": 587,
+                    "stars": 586,
                     "topics": [
                       "graph-neural-networks",
                       "graph-prompt",
@@ -488,7 +488,7 @@
                 "open_issues": 7,
                 "owner": "spcl",
                 "repo": "graph-of-thoughts",
-                "stars": 2849,
+                "stars": 2848,
                 "topics": [
                   "graph-of-thoughts",
                   "graph-structures",
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:08:13.526Z",
+    "last_updated": "2026-11-20T02:57:49.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "Papers about large graph models.",
@@ -572,7 +572,7 @@
       "open_issues": 2,
       "owner": "THUMNLab",
       "repo": "awesome-large-graph-model",
-      "stars": 292,
+      "stars": 291,
       "topics": [
         "awesome-list",
         "graph-foundation-model",
